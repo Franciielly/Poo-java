@@ -1,2 +1,2 @@
-# Projeto Faculdade
-Este projeto é uma aplicação Java para gerenciamento de uma instituição educacional, incluindo alunos, professores, funcionários e cursos. A aplicação permite a criação, manipulação e exibição de informações dessas entidades, além de matrículas de alunos em cursos e execução de tarefas por funcionários.
+# Programação Orientada a Objetos (POO)
+Este repositório contém vários projetos desenvolvidos como parte da disciplina de Programação Orientada a Objetos (POO). O objetivo é aplicar os conceitos aprendidos em aula, como herança, polimorfismo, encapsulamento e tratamento de exceções, em diferentes cenários práticos.
